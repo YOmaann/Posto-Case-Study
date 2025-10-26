@@ -9,8 +9,8 @@ The paper [link](https://dl.acm.org/doi/10.1007/978-3-031-95497-9_7).
 Given a non-linear I/0 system. Perform monitoring with confidence $c$.
 The system is defined as :
 
-$$ x_[i + 1] = x_i - d t(y_i + 1.5x_i + 1.5x_i^2)  $$
-$$ y_[i + 1] = y_i + d t (3x_i^2 - y_i) $$
+$$ x_{i + 1} = x_i - d t(y_i + 1.5x_i + 1.5x_i^2)  $$
+$$ y_{i + 1} = y_i + d t (3x_i^2 - y_i) $$
 
 
 # Files
