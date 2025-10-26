@@ -2,7 +2,7 @@
 
 This is a project which uses the tool called ['Posto'](https://github.com/bineet-coderep/posto/tree/main) to monitor a system.
 
-The paper [link](https://doi.org/10.1007/978-3-031-95497-9_7).
+The paper [link](https://dl.acm.org/doi/10.1007/978-3-031-95497-9_7).
 
 # Problem Statement
 
